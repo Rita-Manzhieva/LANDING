@@ -1,0 +1,37 @@
+body{ background: #16F4D0;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  text-align: center;
+  color: #F71735;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 
+{
+  font-family: Courier;
+  text-orientation: left
+  color: #FDFFFC;
+  font-weight: lighter;
+  font-size: 50px;
+}
+{
+  font-family: Courier;
+  text-align: center;
+  color: #FDFFFC;
+  font-weight: lighter;
+  font-size: 50px;
+}
+a {
+  color: #011627;
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  text-align: center;
+  color: #FF9F1C;
+}
